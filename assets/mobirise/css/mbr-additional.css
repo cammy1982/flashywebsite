@@ -760,9 +760,9 @@ body {
 .cid-qzWpteVKKG .navbar .dropdown-item {
   transition: all .3s;
   padding: .3rem 1.5rem;
-  border-bottom: 1px solid #2b2b2b;
-  color: #ffffff !important;
-  background: #444444 !important;
+  border-bottom: 1px solid #e6e6e6;
+  color: #000000 !important;
+  background: #ffffff !important;
 }
 .cid-qzWpteVKKG .navbar .dropdown-item:hover {
   padding-left: 2rem;
@@ -952,7 +952,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-qzWpteVKKG button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1016,7 +1016,7 @@ body {
   margin: 1.667em 1.667em;
 }
 .cid-qzWpui3hFL {
-  background-image: url("../../../assets/images/background2.jpg");
+  background-image: url("../../../assets/images/17-292-earth-hour-web-images-1600x600-v4-1600x600.jpg");
 }
 .cid-qzWpui3hFL .mbr-text,
 .cid-qzWpui3hFL .typed-text,
